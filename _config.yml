@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: The PDF of Naval Ravikant
+description: Like *The Almanack*, but edited. And organized.
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://scottsemple.github.io/the-pdf-of-naval-ravikant
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
